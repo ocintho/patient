@@ -1,0 +1,15 @@
+{
+  "resourceName": "s3c2bebec5",
+  "policyUUID": "c2bebec5",
+  "bucketName": "patientconnect1e60f44caee04ff1b74e707b698d94e2",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}

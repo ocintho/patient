@@ -1,0 +1,11 @@
+type Patient @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  nom: String!
+  prenom: String!
+  dateNaissance: AWSDate!
+  phoneNumber: AWSPhone!
+  quartier: String
+  ville: String!
+  patientImageUrl: String
+  patientImageKey: String
+} 

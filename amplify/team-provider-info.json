@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-patientconnect-staging-232034-authRole",
+      "UnauthRoleArn": "arn:aws:iam::016092387162:role/amplify-patientconnect-staging-232034-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::016092387162:role/amplify-patientconnect-staging-232034-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-patientconnect-staging-232034-deployment",
+      "UnauthRoleName": "amplify-patientconnect-staging-232034-unauthRole",
+      "StackName": "amplify-patientconnect-staging-232034",
+      "StackId": "arn:aws:cloudformation:eu-west-3:016092387162:stack/amplify-patientconnect-staging-232034/57858cc0-b23e-11ed-994a-0618691b33b0",
+      "AmplifyAppId": "d262u7gjk5ct3a"
+    },
+    "categories": {
+      "auth": {
+        "patientconnect": {}
+      },
+      "storage": {
+        "s3c2bebec5": {}
+      }
+    }
+  }
+}
